@@ -1,37 +1,41 @@
 # Dispositivos
 
-## ZED stereo camera
+## Visión
 
-### SDK
+### ZED stereo camera
+
+#### SDK
 * [ZED SDK](https://github.com/stereolabs/zed-sdk)
 * [Docker with the ZED SDK](https://github.com/stereolabs/zed-docker)
 
-### ROS 2
+#### ROS 2
 * [Getting Started with ROS 2 and ZED](https://www.stereolabs.com/docs/ros2)
 * [Stereolabs ZED Camera - ROS2 Tutorials and Examples](https://github.com/TransMisiones-Centauro/zed-ros2-examples)
 * [Create and use Docker images for ZED and ROS 2](https://www.stereolabs.com/docs/docker/configure-ros2-dockerfile)
 
-### ROS 1
+#### ROS 1
 * [Stereolabs ZED Camera - RTAB-map example - ROS Noetic](https://github.com/stereolabs/zed-ros-examples/blob/master/examples/zed_rtabmap_example/README.md)
 
-## RealSense camera
+### RealSense camera
 * [ROS Wrapper for Intel(R) RealSense(TM) Cameras](https://github.com/TransMisiones-Centauro/realsense-ros/)
 
-## OAK-D Lite stereo camera
+### OAK-D Lite stereo camera
 * [Hardware](https://docs-beta.luxonis.com/hardware/products/OAK-D%20Lite)
 * [Robotics Vision Core 2](https://docs-beta.luxonis.com/hardware/platform/rvc/rvc2/)
 * [DepthAI ROS](https://docs-beta.luxonis.com/software/ros/depthai-ros/)
 
-## Unitree L1 LiDAR
+## LiDAR
+
+### Unitree L1 LiDAR
 * [Unitree 4D LiDAR L1](https://www.unitree.com/LiDAR/)
 * [Unilidar SDK (C++, ROS, ROS2)](https://github.com/unitreerobotics/unilidar_sdk)
 * [Unitree Download Center](https://www.unitree.com/download/)
 
-## Livox LiDAR
+### Livox LiDAR
 * [Livox MID-360](https://www.livoxtech.com/mid-360)
 * [Livox ROS Driver 2 (ROS, ROS2)](https://github.com/Livox-SDK/livox_ros_driver2/)
 
-## Slamtec RPLIDAR A2
+### Slamtec RPLIDAR A2
 * [Homepage](https://www.slamtec.ai/product/slamtec-rplidar-a2/)
 * [ROS2 Package](https://github.com/Slamtec/sllidar_ros2)
 
