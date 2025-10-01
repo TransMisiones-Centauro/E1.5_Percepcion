@@ -9,3 +9,16 @@ la Agencia Estatal de Investigación (MCIN/AEI/10.13039/501100011033).
   <img width="500" src="./img/partners.png" />
 </p>
 
+## Resumen
+
+## Metodología
+
+## Repositorios de algoritmos
+
+* [Algoritmos](Algoritmos/)
+
+## Repositorios de dispositivos
+
+* [Dispositivos](Dispositivos/)
+
+## Referencias
