@@ -22,3 +22,5 @@ la Agencia Estatal de Investigación (MCIN/AEI/10.13039/501100011033).
 * [Dispositivos](Dispositivos/)
 
 ## Referencias
+
+* [ROS 2 Documentation: Jazzy](https://docs.ros.org/en/jazzy/index.html)
