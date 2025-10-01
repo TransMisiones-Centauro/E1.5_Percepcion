@@ -1,4 +1,4 @@
-# Entregable 1.5. Percepción de Objetos
+# CENTAURO: Entregable 1.5 - Percepción de Objetos
 
 Este repositorio constituye el Entregable 1.5 del proyecto CENTAURO, enmarcado en el programa 
 Misiones Ciencia e Innovación 2023 (TransMisiones) subvencionado por el CDTI y 
