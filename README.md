@@ -9,18 +9,49 @@ la Agencia Estatal de Investigación (MCIN/AEI/10.13039/501100011033).
   <img width="500" src="./img/partners.png" />
 </p>
 
-## Resumen
+## 1. Resumen
 
-## Metodología
+Responsable: UJI
 
-## Repositorios de algoritmos
+Contenido: contexto del proyecto, requerimientos de percepción, objetivos del entregable, estructura del documento
+
+
+## 2. Metodología
+
+Responsable: UJI
+
+Contenido: integración de algoritmos y dispositivos en ROS 2 y Docker
+
+
+## 3. Repositorios de algoritmos
+
+Responsable: UJI, Synersight y UPC
+
+Contenido: algoritmos y métodos investigados en la actividad 1
+
 
 * [Algoritmos](Algoritmos/)
 
-## Repositorios de dispositivos
+## 4. Repositorios de dispositivos
+
+Responsable: UJI, PAL Robotics y SC
+
+Contenido: dispositivos analizados en la actividad 1
+
 
 * [Dispositivos](Dispositivos/)
 
-## Referencias
+## 5. Conclusiones
+
+Responsable: UJI, PAL Robotics y UPC
+
+Contenido: recapitulación y valoración del trabajo
+
+
+## 6. Referencias
+
+Responsable: UJI
+
+Contenido: enlaces de interés
 
 * [ROS 2 Documentation: Jazzy](https://docs.ros.org/en/jazzy/index.html)
