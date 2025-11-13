@@ -63,13 +63,18 @@ Contenido: algoritmos y métodos investigados en la actividad 1
 
 ## 4. Repositorios de dispositivos
 
-<p align="center">
-  <a href="Dispositivos/"><img width="250" src="./img/dispositivos.png" /></a>
-</p>
-
 Responsable: UJI, PAL Robotics y SC
 
 Contenido: dispositivos analizados en la actividad 1
+
+<table border="0">
+  <tr>
+    <td>Esta sección contiene información sobre los dispositivos hardware analizados en el proyecto.
+    Los sensores se agrupan por modalidad (visión y lidar), y para cada uno de ellos se proporcionan
+    enlaces a las especificaciones, kits de desarrollo, e instrucciones para usar en ROS y Docker.</td>
+    <td><a href="Dispositivos/"><img width="450" src="./img/dispositivos.png" /></a></td>    
+  </tr>
+</table>
 
 
 * [Dispositivos](Dispositivos/)
