@@ -54,12 +54,19 @@ seleccionando adecuadamente los privilegios y permisos de los procesos.
 
 ## 3. Repositorios de algoritmos
 
+<img width="350" align="right" src="https://github.com/TransMisiones-Centauro/ObjectPoseEstimation/raw/main/assets/test_bop19.png" />
+
 Responsable: UJI, Synersight y UPC
 
 Contenido: algoritmos y métodos investigados en la actividad 1
 
+En esta sección se presentan algoritmos de percepción de objetos analizados en el proyecto, con enlaces
+a los artículos científicos correspondientes, repositorios y documentación para ROS y Docker.
 
-* [Algoritmos](Algoritmos/)
+Índice de algoritmos:
+  * [Foundation Pose](Algoritmos#foundation-pose)
+  * [Grasp Anything](Algoritmos#grasp-anything)
+  * [Object Pose Estimation](Algoritmos#objectposeestimation)
 
 ## 4. Repositorios de dispositivos
 
@@ -71,7 +78,7 @@ Contenido: dispositivos analizados en la actividad 1
 
 Esta sección contiene información sobre los dispositivos hardware analizados en el proyecto.
 Los sensores se agrupan por modalidad (visión y lidar), y para cada uno de ellos se proporcionan
-enlaces a las especificaciones, kits de desarrollo, e instrucciones para usar en ROS y Docker.</td>
+enlaces a las especificaciones, kits de desarrollo, e instrucciones para usar en ROS y Docker.
     
 Índice de dispositivos:
   * [Visión](Dispositivos/README.md#visi%C3%B3n)
