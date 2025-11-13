@@ -76,8 +76,16 @@ Contenido: dispositivos analizados en la actividad 1
   </tr>
 </table>
 
-
-* [Dispositivos](Dispositivos/)
+Índice de dispositivos:
+  * [Visión](Dispositivos/README.md#visi%C3%B3n)
+    * [OAK-D Lite stereo camera](Dispositivos/README.md#oak-d-lite-stereo-camera)
+    * [Orbbec Astra 2](Dispositivos/README.md#orbbec-astra-2)
+    * [RealSense camera](Dispositivos/README.md#realsense-camera)
+    * [ZED stereo camera](Dispositivos/README.md#zed-stereo-camera)
+  * [LiDAR](Dispositivos/README.md#lidar)
+    * [Livox](Dispositivos/README.md#livox-lidar)
+    * [Slamtec](Dispositivos/README.md#slamtec-rplidar-a2)
+    * [Unitree](Dispositivos/README.md#unitree-l1-lidar)
 
 ## 5. Conclusiones
 
