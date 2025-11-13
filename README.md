@@ -63,6 +63,10 @@ Contenido: algoritmos y métodos investigados en la actividad 1
 
 ## 4. Repositorios de dispositivos
 
+<p align="center">
+  <a href="Dispositivos/"><img width="250" src="./img/dispositivos.png" /></a>
+</p>
+
 Responsable: UJI, PAL Robotics y SC
 
 Contenido: dispositivos analizados en la actividad 1
