@@ -24,6 +24,11 @@
 * [Robotics Vision Core 2](https://docs-beta.luxonis.com/hardware/platform/rvc/rvc2/)
 * [DepthAI ROS](https://docs-beta.luxonis.com/software/ros/depthai-ros/)
 
+### Orbbec Astra 2
+* [Specifications](https://www.orbbec.com/products/structured-light-camera/astra-2/)
+* [Datasheet](https://github.com/TransMisiones-Centauro/E1.5_Percepcion/blob/main/Dispositivos/Vision/ORBBEC_Datasheet_Astra-2_V1.2.pdf)
+* [SDK](https://www.orbbec.com/developers/orbbec-sdk/)
+* [OrbbecSDK ROS2 wrapper](https://orbbec.github.io/OrbbecSDK_ROS2/en/index.html) - [GitHub](https://github.com/orbbec/OrbbecSDK_ROS2)
 ## LiDAR
 
 ### Unitree L1 LiDAR
