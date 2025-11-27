@@ -1,5 +1,7 @@
 # Dispositivos
 
+Esta sección contiene información sobre los dispositivos hardware analizados en el proyecto. Los sensores se agrupan por modalidad (visión y lidar), y para cada uno de ellos se proporcionan enlaces a las especificaciones, kits de desarrollo, e instrucciones para usar en ROS y Docker.
+
 ## Visión
 
 ### OAK-D Lite stereo camera
