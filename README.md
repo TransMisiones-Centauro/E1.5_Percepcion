@@ -56,9 +56,9 @@ seleccionando adecuadamente los privilegios y permisos de los procesos.
 
 <img width="350" align="right" src="https://github.com/TransMisiones-Centauro/ObjectPoseEstimation/raw/main/assets/test_bop19.png" />
 
-Responsable: UJI, Synersight y UPC
+<!-- Responsable: UJI, Synersight y UPC
 
-Contenido: algoritmos y métodos investigados en la actividad 1
+Contenido: algoritmos y métodos investigados en la actividad 1 -->
 
 En esta sección se presentan algoritmos de percepción de objetos analizados en el proyecto, con enlaces
 a los artículos científicos correspondientes, repositorios y documentación para ROS y Docker.
@@ -72,9 +72,9 @@ a los artículos científicos correspondientes, repositorios y documentación pa
 
 <a href="Dispositivos/"><img width="350" align="right" src="./img/dispositivos.png" /></a>
 
-Responsable: UJI, PAL Robotics y SC
+<!-- Responsable: UJI, PAL Robotics y SC
 
-Contenido: dispositivos analizados en la actividad 1
+Contenido: dispositivos analizados en la actividad 1 -->
 
 Esta sección contiene información sobre los dispositivos hardware analizados en el proyecto.
 Los sensores se agrupan por modalidad (visión y lidar), y para cada uno de ellos se proporcionan
@@ -93,9 +93,12 @@ enlaces a las especificaciones, kits de desarrollo, e instrucciones para usar en
 
 ## 5. Conclusiones
 
-Responsable: UJI, PAL Robotics y UPC
+<!-- Responsable: UJI, PAL Robotics y UPC -->
 
-Contenido: recapitulación y valoración del trabajo
+En este entregable se han revisado diferentes dispositivos y algoritmos de percepción para el proyecto Centauro,
+incluyendo la información necesaria para su utilización en ROS 2 con Docker. Según el tamaño de los objetos de la
+tarea será más idóneo utilizar cámaras (objetos pequeños y medianos) o LiDAR (objetos de grandes dimensiones).
+Los dispositivos LiDAR también serán útiles para las tareas de navegación y localización del manipulador móvil.
 
 
 ## 6. Referencias
