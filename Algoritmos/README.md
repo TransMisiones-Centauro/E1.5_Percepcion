@@ -1,5 +1,7 @@
 # Algoritmos
 
+En esta sección se presentan algoritmos de percepción de objetos analizados en el proyecto, con enlaces a los artículos científicos correspondientes, repositorios y documentación para ROS y Docker.
+
 ## Foundation Pose
 
 * [Unified 6D Pose Estimation and Tracking of Novel Objects](https://nvlabs.github.io/FoundationPose/)
